@@ -1,8 +1,24 @@
 ---
+title: "Über..."
 permalink: /about/
-title: "About"
+layout: single
+header:
+  overlay_image: /assets/images/swak-splash.jpg
+  caption: "Photo credit: **Ramin Karbassi/Unsplash**"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+![](/assets/images/gernot-talking-no-bg.png){: .align-right}
+
+
+[INNOQ-Fellow](https://www.innoq.com/de/staff/gernot-starke/).
+Coach und Consultant für Softwareprojekte, berät Organisationen
+aus unterschiedlichen Branchen, mit Fokus _Informationssysteme_.
+
+Reviews, Audits, Analysen, Architektur- und Systembewertungen.
+Unterstützt bei Modernisierung, Migration, Renovierung bestehender Systeme.
+
+(Mit-)gründer von [arc42](https://arc42.org), Gründer von [aim42](https://aim42.org), Gründungsmitglied des [iSAQB e.V.](https://isaqb.org).
+
+
+Autor diverser Bücher zu Softwarearchitektur.

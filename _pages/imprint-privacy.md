@@ -1,11 +1,9 @@
 ---
-layout: single
+layout: home
 title: Imprint & Privacy
 permalink: /imprint/
-order: 90
-share: false
 header:
-  overlay_image: /images/splash/privacy-274694-unsplash.jpg
+  overlay_image: assets/images/privacy-274694-unsplash.jpg
   caption: "[**Scott Webb**](https://unsplash.com/photos/yekGLpc3vro)"
 
 ---
@@ -27,7 +25,7 @@ Website: [gernotstarke.de](https://gernotstarke.de)
 
 #### Verantwortlich nach § 6 Abs.2 MDStV
 
-Dr. Gernot Starke, mit Unterstützung von Dr. Peter Hruschka (Aachen).
+Dr. Gernot Starke.
 
 
 
@@ -48,9 +46,6 @@ Der Anbieter verwendet die Protokolldaten nur für statistische Auswertungen zum
 
 #### Kontaktaufnahme
 Bei der Kontaktaufnahme mit dem Anbieter (zum Beispiel per Kontaktformular oder E-Mail) werden die Angaben des Nutzers zwecks Bearbeitung der Anfrage sowie für den Fall, dass Anschlussfragen entstehen, gespeichert.
-
-#### Kommentare und Beiträge
-Wenn Nutzer Kommentare im Blog oder sonstige Beiträge hinterlassen, werden ihre IP-Adressen gespeichert. Das erfolgt zur Sicherheit des Anbieters, falls jemand in Kommentaren und Beiträgen widerrechtliche Inhalte schreibt (Beleidigungen, verbotene politische Propaganda, etc.). In diesem Fall kann der Anbieter selbst für den Kommentar oder Beitrag belangt werden und ist daher an der Identität des Verfassers interessiert.
 
 
 #### Widerruf, Änderungen, Berichtigungen und Aktualisierungen

@@ -1,19 +1,10 @@
 main:
-  - title: "Overview"
-    url: /overview 
-  - title: "Posts"
+  - title: "Folgen"
     url: /posts/
-  - title: "About"
+  - title: "Über"
     url: /about/
-
-about:
-  - title: About arc42
-    url: /about
-    children:
-    - title: "Contact"
-      url: /contact
-    - title: "Contributors"
-      url: "https://github.com/orgs/arc42/people"
-    - title: "License"
-      url: "/license"
-    
+  - title: "Kontakt"
+    url: /contact
+  - title: "Lizenz"
+    url: "/license"
+ 
