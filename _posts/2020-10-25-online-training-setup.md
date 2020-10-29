@@ -1,29 +1,28 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2019-04-18T15:34:30-04:00
+title: "Gernots Online-Training Setup"
+date: 2020-10-25
 categories:
-  - blog
+  - behind-the-scenes
 tags:
-  - Jekyll
-  - update
+  - intro
+  - setup
 ---
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Ich habe einen kleine Einblick in mein aktuelles (Stand Oktober 2020) technisches Setup für Online-Trainings und Workshops gefilmt.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C0lqybWD2-c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Jekyll also offers powerful support for code snippets:
-
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+* 0:00 Einführung
+* 0:31 Überblick
+* 1:36 Kontrollmonitor für Feedback 
+* 2:30 Kamera(vergleich)
+* 2:58 So sieht's aus
+* 3:36 Drei Timer
+* 4:28 Audio-Loopback
+* 4:59 Slides mit PiP (Picture-in-Picture)
+* 5:28 Gruppenarbeit mit Online-Boards
+* 6:14 Q&A-Board
+* 6:24 Pausen
+* 6:47 Regie und Szenenwechsel (mit OBS)
+* 7:13 Streamdeck
+* 7:26 Online-macht-Spaß

@@ -5,6 +5,5 @@ main:
     url: /about/
   - title: "Kontakt"
     url: /contact
-  - title: "Lizenz"
-    url: "/license"
+ 
  
