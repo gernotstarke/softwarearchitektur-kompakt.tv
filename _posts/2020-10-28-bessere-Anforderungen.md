@@ -4,7 +4,7 @@ date: 2020-10-28
 categories:
   - vortrag
 tags:
-  - innoq
+  - INNOQ
   - requirements
 ---
 

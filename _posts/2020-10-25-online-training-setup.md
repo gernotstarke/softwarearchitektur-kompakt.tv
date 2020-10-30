@@ -2,7 +2,7 @@
 title: "Gernots Online-Training Setup"
 date: 2020-10-25
 categories:
-  - behind-the-scenes
+  - off-topic
 tags:
   - intro
   - setup
