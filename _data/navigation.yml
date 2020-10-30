@@ -1,6 +1,10 @@
 main:
   - title: "Folgen"
     url: /posts/
+  - title: "Kategorien"
+    url: /categories/
+  - title: "Schlagworte"
+    url: /tags/
   - title: "Über"
     url: /about/
   - title: "Kontakt"

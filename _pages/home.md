@@ -1,5 +1,5 @@
 ---
-title: "Softwarearchitektur-kompakt.tv"
+title: "Softwarearchitektur kompakt"
 layout: splash
 permalink: /
 header:
@@ -27,13 +27,6 @@ feature_row:
 {% include feature_row %}
 
 
-arc42 is based on **practical experience** of many systems in various domains,
-from information and web systems, real-time and embedded to business intelligence
-and data warehouses.
 
-
-arc42 is open-source and can be used **free of charge**, in commercial and
-private situations.
-See our [license page](/license) for details.
 
 
